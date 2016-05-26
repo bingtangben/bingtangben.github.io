@@ -13,5 +13,3 @@ can carry out in Magit is done through a one-key system that opens up
 a “command console” window at the bottom, letting you further refine your
 command before you carry it out. This is a fantastically well-done interface
 and is probably the killer feature that makes Magit so great.
-
-
